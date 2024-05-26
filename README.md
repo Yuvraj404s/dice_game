@@ -1,3 +1,3 @@
 # dice_game
-A simple Javascript htmal and css based dice game
+A simple Javascript html and css based dice game
 
